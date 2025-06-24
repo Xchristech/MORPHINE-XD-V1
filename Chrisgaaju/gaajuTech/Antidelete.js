@@ -35,7 +35,7 @@ class DemonAntiDelete {
 
   formatTime(timestamp) {
     const options = {
-      timeZone: 'Asia/Karachi',
+      timeZone: 'African/Lagos',
       year: 'numeric',
       month: 'short',
       day: 'numeric',
