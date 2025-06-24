@@ -94,7 +94,7 @@ const AntiDelete = async (m, Matrix) => {
         contextInfo: demonContext
       },
       off: {
-        text: `INCONNU-XD Anti-Delete Deactivated!*\n\n` +
+        text: `MORPHINE-XD Anti-Delete Deactivated!*\n\n` +
               `• Status: ❌ Disabled\n\n` +
               `_Message recovery disabled_\n\n` +
               `━━━━━━⊱✿⊰━━━━━━\n` +
